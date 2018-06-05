@@ -40,7 +40,7 @@ class PdfActivity :
              * Permite a definição da página que será carregada inicialmente.
              * A contagem inicia em 0.
              * */
-            .defaultPage( doc.getActualPage(this) ?: 0 )
+            .defaultPage( doc.getActualPage(this) )
 
             /*
              * Caso um ScrollHandle seja definido, a numeração da página estará
@@ -115,6 +115,6 @@ class PdfActivity :
     }
 
     override fun onInitiallyRendered(nbPages: Int, pageWidth: Float, pageHeight: Float) {
-        pdfView.fitToWidth( doc.getActualPage(this) ?: 0 )
+        pdfView.fitToWidth( doc.getActualPage(this) )
     }
 }
