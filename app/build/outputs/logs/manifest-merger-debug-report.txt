@@ -6,13 +6,13 @@ INJECTED from /Users/viniciusthiengo/Desktop/dot-documentacoes/app/src/main/Andr
 INJECTED from /Users/viniciusthiengo/Desktop/dot-documentacoes/app/src/main/AndroidManifest.xml:2:1-28:12
 MERGED from [com.android.support:design:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/394cb0aac89a79a7a122ac2aab8941f9/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d61e2c13263fa6397516c03d3604f4a2/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/c9c5cc2c92aacaaa7f04a8b15d5288fb/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:cardview-v7:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/5eb3dc76f617955867cb949ce232d43c/AndroidManifest.xml:17:1-22:12
 MERGED from [com.github.barteksc:android-pdf-viewer:2.7.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/android-pdf-viewer-2.7.0.aar/3800a03a56d68bee6126dfefc7248994/AndroidManifest.xml:2:1-11:12
 MERGED from [com.github.barteksc:pdfium-android:1.7.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/pdfium-android-1.7.0.aar/6265fa3c62bdfb88f34a1cc5b215bb71/AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:support-v4:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/cca49f0e478d672c16bfb0028e174d84/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/e9329b91833fbe01d9ac018cdb2f0101/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/33413044b760872a6753df17fe61e28d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/c9c5cc2c92aacaaa7f04a8b15d5288fb/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-ui:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/16ed920d368bff0b84141c9d09f28990/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-utils:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/ea8e7ba80bf4d6d5218920aa60b982de/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/27d0281fe9276007ed2e80ed7a7fd2f4/AndroidManifest.xml:17:1-22:12
@@ -84,8 +84,6 @@ MERGED from [com.android.support:design:27.1.1] /Users/viniciusthiengo/.gradle/c
 MERGED from [com.android.support:design:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/394cb0aac89a79a7a122ac2aab8941f9/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d61e2c13263fa6397516c03d3604f4a2/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d61e2c13263fa6397516c03d3604f4a2/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/c9c5cc2c92aacaaa7f04a8b15d5288fb/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/c9c5cc2c92aacaaa7f04a8b15d5288fb/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:cardview-v7:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/5eb3dc76f617955867cb949ce232d43c/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:cardview-v7:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/5eb3dc76f617955867cb949ce232d43c/AndroidManifest.xml:20:5-44
 MERGED from [com.github.barteksc:android-pdf-viewer:2.7.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/android-pdf-viewer-2.7.0.aar/3800a03a56d68bee6126dfefc7248994/AndroidManifest.xml:7:5-9:41
@@ -98,6 +96,8 @@ MERGED from [com.android.support:support-fragment:27.1.1] /Users/viniciusthiengo
 MERGED from [com.android.support:support-fragment:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/e9329b91833fbe01d9ac018cdb2f0101/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/33413044b760872a6753df17fe61e28d/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/33413044b760872a6753df17fe61e28d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/c9c5cc2c92aacaaa7f04a8b15d5288fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/c9c5cc2c92aacaaa7f04a8b15d5288fb/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-ui:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/16ed920d368bff0b84141c9d09f28990/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-ui:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/16ed920d368bff0b84141c9d09f28990/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-utils:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/ea8e7ba80bf4d6d5218920aa60b982de/AndroidManifest.xml:20:5-44

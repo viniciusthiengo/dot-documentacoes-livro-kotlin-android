@@ -1,12 +1,16 @@
 package br.com.thiengo.pdfviwertest
 
+import android.graphics.Canvas
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
 import android.support.v7.widget.Toolbar
 import android.view.MenuItem
+import android.view.MotionEvent
 import br.com.thiengo.pdfviwertest.domain.Doc
+import com.github.barteksc.pdfviewer.listener.OnDrawListener
 import com.github.barteksc.pdfviewer.listener.OnPageChangeListener
 import com.github.barteksc.pdfviewer.listener.OnRenderListener
+import com.github.barteksc.pdfviewer.listener.OnTapListener
 import com.github.barteksc.pdfviewer.scroll.DefaultScrollHandle
 import kotlinx.android.synthetic.main.activity_pdf.*
 
@@ -71,7 +75,7 @@ class PdfActivity :
 
             /*
              * Caso true, permite que os níveis de zoom (min, middle, max) também
-             * seja acionados caso o usuário dê touchs na tela do device.
+             * sejam acionados caso o usuário dê toques na tela do device.
              * */
             .enableDoubletap(true)
 
