@@ -6,7 +6,7 @@ android {
     compileSdkVersion 27
     defaultConfig {
         applicationId "br.com.thiengo.pdfviwertest"
-        minSdkVersion 15
+        minSdkVersion 16
         targetSdkVersion 27
         versionCode 1
         versionName "1.0"
@@ -30,7 +30,4 @@ dependencies {
 
     /* PDF VIWER */
     implementation 'com.github.barteksc:android-pdf-viewer:2.7.0'
-}
-repositories {
-    mavenCentral()
 }
