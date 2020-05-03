@@ -18,6 +18,26 @@ Migre assim que o finalizado em sua própria instalação do Android Studio IDE.
 
 O processo de migração é bem simples e pode ser seguido no tutorial a seguir: [Migrar para o AndroidX](https://developer.android.com/jetpack/androidx/migrate?hl=pt-br).
 
+### Todos os projetos do livro
+
+Todos os repositórios dos projetos Kotlin Android de exemplo do livro estão listados a seguir:
+
+1. Capítulo 1 ➙ [Simples e Robusto Roteiro Para Permissões Perigosas](https://github.com/viniciusthiengo/sms-faster-livro-kotlin-android);
+2. Capítulo 2 ➙ [Picasso Para Carregamento e Atualização Eficientes de Imagens](https://github.com/viniciusthiengo/pablo-picasso-livro-kotlin-android);
+3. Capítulo 3 ➙ [Material Dialogs Para Caixas de Diálogo em Qualquer Contexto](https://github.com/viniciusthiengo/camisas-de-futebol-livro-kotlin-android);
+4. Capítulo 4 ➙ [Apresentação do App via Telas de Introdução](https://github.com/viniciusthiengo/questions-intro-api-livro-kotlin-android);
+5. Capítulo 5 ➙ [Famílias Personalizadas de Fontes](https://github.com/viniciusthiengo/pokedex-livro-kotlin-android);
+6. Capítulo 6 ➙ [AndroidUtilCode Para Desenvolvimento Eficiente](https://github.com/viniciusthiengo/superplacar-app-livro-kotlin-android);
+7. Capítulo 7 ➙ [Retenção de Objetos com Android-State](https://github.com/viniciusthiengo/fifa-world-cup-2018-livro-kotlin-android);
+8. Capítulo 8 ➙ [Barra de Fundo para Navegação](https://github.com/viniciusthiengo/torneios-continentais-livro-kotlin-android);
+9. Capítulo 9 ➙ [Segurança e Persistência com Hawk](https://github.com/viniciusthiengo/to-do-hawk-livro-kotlin-android);
+10. Capítulo 10 ➙ [Trabalhando Arquitetura, Componente ViewModel](https://github.com/viniciusthiengo/news-app-brasil-notcias-livro-kotlin-android);
+11. Capítulo 11 ➙ [Chips para Trabalho com Pequenas Caixas Complexas](https://github.com/viniciusthiengo/faster-email-livro-kotlin-android);
+12. Capítulo 12 ➙ [Leitor de PDF](https://github.com/viniciusthiengo/dot-documentacoes-livro-kotlin-android);
+13. Capítulo 13 ➙ [Leitura de Códigos com Barcode Scanner](https://github.com/viniciusthiengo/bar-code-leitor-livro-kotlin-android);
+14. Apêndice D ➙ [Kotlin](https://github.com/viniciusthiengo/palindromo-livro-kotlin-android);
+15. Apêndice E ➙ [Um pouco mais do Kotlin](https://github.com/viniciusthiengo/carros-a-venda-livro-kotlin-android).
+
 ## Dados livro
 
 "Desenvolvedor Kotlin Android - Bibliotecas para o dia a dia"
